@@ -1,7 +1,7 @@
-This is(1) the final module
+This is the final module
 
-Hello(2) Cow
+Hello Cow
 Round(3) 25
 
-Hello(4) Cat
+Hello Cat
 Round(5) 23
