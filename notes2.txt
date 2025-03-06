@@ -6,5 +6,5 @@ Round(3) 25
 Hello Cat
 Round(5) 23
 
-Hello Horse
+Hello Dog
 Round(7) 21
