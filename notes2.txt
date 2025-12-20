@@ -1,10 +1,10 @@
 This is the final module
 
-Hello Cow (updated)
+Hello Cow (latest)
 Round(3) 25
 
 Hello Cat
 Round(5) 23
 
 Hello Horse
-Round(7) 30
+Round(7) 38
