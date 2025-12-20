@@ -7,4 +7,4 @@ Hello Cat
 Round(5) 23
 
 Hello Horse
-Round(7) 21
+Round(7) 28
